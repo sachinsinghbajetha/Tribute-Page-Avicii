@@ -1,0 +1,34 @@
+#title{
+  font-family:verdana;
+  color:black;
+  font-size:30px;
+  text-align:center;
+}
+p{
+  font-family:sans-serif;
+  padding-left:10px;
+  padding-right:10px;
+  font-size:14px;
+}
+#img-caption{
+  font-family:monospace;
+  text-align:center;
+  font-weight:1000;
+}
+#image{
+  border: 4px orange solid;
+  display:block;
+  width:20%;
+  margin:auto;
+}
+a{
+  text-decoration:none;
+  color:orange;
+  font-weight:bold;
+}
+a:hover{
+  color:green;
+}
+#footer{
+  text-align:center;
+}
