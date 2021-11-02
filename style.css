@@ -1,58 +1,58 @@
 body {
-  box-sizing: border-box;
-  background-color: black;
+    box-sizing: border-box;
+    background-color: black;
 }
 
 #title {
-  color: white;
-  font-family: verdana;
-  font-size: 2rem;
-  text-align: center;
+    color: white;
+    font-family: verdana;
+    font-size: 2rem;
+    text-align: center;
 }
 
 p {
-  color: white;
-  font-family: sans-serif;
-  margin: 1rem; 
-  font-size: 1rem;
+    color: white;
+    font-family: sans-serif;
+    margin: 1rem;
+    font-size: 1rem;
 }
 
 #img-caption {
-  margin-top: 2rem;
-  font-family: monospace;
-  text-align: center;
-  font-weight: bolder;
+    margin-top: 2rem;
+    font-family: monospace;
+    text-align: center;
+    font-weight: bolder;
 }
 
 #image {
-  border: 0px solid;
-  border-radius: 10px;
-  filter: grayscale(100%);
-  display: block;
-  width:15%;
-  min-width:150px;
-  margin: 0 auto;
-  transition: ease-out 0.3s;
+    border: 0px solid;
+    border-radius: 10px;
+    filter: grayscale(100%);
+    display: block;
+    width: 15%;
+    min-width: 150px;
+    margin: 0 auto;
+    transition: ease-out 0.3s;
 }
 
 #image:hover {
-  filter: grayscale(0);
-  border: 5px cornflowerblue solid;
-  transform: scale(1.1);
+    filter: grayscale(0);
+    border: 5px cornflowerblue solid;
+    transform: scale(1.1);
 }
 
 a {
-  text-decoration: none;
-  color: gray;
-  font-weight: bolder;
-  transition: ease-out 0.3s;
+    text-decoration: none;
+    color: gray;
+    font-weight: bolder;
+    transition: ease-out 0.3s;
 }
 
 a:hover {
-  color: cornflowerblue;
-  text-decoration: none;
+    color: cornflowerblue;
+    text-decoration: none;
 }
 
 #footer {
-  text-align: center;
+    text-align: center;
 }
